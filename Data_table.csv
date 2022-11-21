@@ -1,0 +1,241 @@
+﻿Isolate_number,Isolate_name,Isolate_host,Exudate_source,Replication,day_0,day_1,day_2,day_3,day_4,day_5,day_6,day_7,day_8
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Lettuce,A,722.2222222,12000,68000,259000,84500,153500,222000,52500,275000
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Lettuce,B,722.2222222,37000,40500,94500,82500,64500,39000,52500,174000
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Lettuce,C,722.2222222,33500,75000,61500,71000,128000,155500,48500,147500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Lettuce,D,722.2222222,34500,440500,65000,23000,134000,74500,35000,145500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Lettuce,E,722.2222222,24500,85000,41000,89000,161500,132000,78000,127000
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Mustard cabbage,A,722.2222222,11500,265000,335000,76000,274000,225000,133500,294500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Mustard cabbage,B,722.2222222,49000,108500,20500,95500,43000,48000,72000,86500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Mustard cabbage,C,722.2222222,22000,544000,50000,82000,140500,158000,84000,72000
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Mustard cabbage,D,722.2222222,11500,396000,93000,34500,257000,92500,51500,85000
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Mustard cabbage,E,722.2222222,21000,106500,163000,57500,275000,103500,45000,161500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Maize,A,722.2222222,3000,143500,122000,101000,568000,172000,147500,165500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Maize,B,722.2222222,11500,20000,53500,99500,69500,25500,52000,219000
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Maize,C,722.2222222,6500,41000,19500,41500,89000,123500,55500,82500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Maize,D,722.2222222,34500,100500,137000,75500,228000,45500,57000,179500
+UHC112,Pseudomonas cf. hutmensis,Lettuce,Maize,E,722.2222222,10500,20500,143000,133000,535500,146500,165000,145000
+UHC113,Variovorax cf. guangxiensis,Lettuce,Lettuce,A,727.7227723,17000,34000,11000,32000,100000,22500,44000,66500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Lettuce,B,727.7227723,14000,37500,22500,35500,17000,8500,8000,14500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Lettuce,C,727.7227723,9500,10000,14000,15000,20000,9000,13000,37000
+UHC113,Variovorax cf. guangxiensis,Lettuce,Lettuce,D,727.7227723,40500,32000,10000,21500,18750,9500,29500,27500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Lettuce,E,727.7227723,11000,59500,304000,21500,17500,6000,9500,19000
+UHC113,Variovorax cf. guangxiensis,Lettuce,Mustard cabbage,A,727.7227723,7500,60500,164000,37500,43000,12500,84000,52500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Mustard cabbage,B,727.7227723,10000,203500,76000,35000,35000,22000,69500,44000
+UHC113,Variovorax cf. guangxiensis,Lettuce,Mustard cabbage,C,727.7227723,6500,101500,162000,126500,57500,44000,48000,17000
+UHC113,Variovorax cf. guangxiensis,Lettuce,Mustard cabbage,D,727.7227723,19500,26500,506500,47000,30000,10500,17000,42500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Mustard cabbage,E,727.7227723,11000,33500,197000,25000,40500,31500,30000,60500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Maize,A,727.7227723,16000,32500,42000,23000,103500,10500,31500,39000
+UHC113,Variovorax cf. guangxiensis,Lettuce,Maize,B,727.7227723,7500,26000,45000,21500,18000,21000,20000,14500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Maize,C,727.7227723,10000,17500,65000,14500,21000,32000,11000,14500
+UHC113,Variovorax cf. guangxiensis,Lettuce,Maize,D,727.7227723,10500,11500,12500,105000,17000,26000,13500,43000
+UHC113,Variovorax cf. guangxiensis,Lettuce,Maize,E,727.7227723,6000,9000,12500,25500,22000,8500,20000,32000
+UHC115,Micrococcus cf. luteus,Lettuce,Lettuce,A,715.3846154,9500,4000,7500,1000,10500,2500,3000,1500
+UHC115,Micrococcus cf. luteus,Lettuce,Lettuce,B,715.3846154,3000,3000,10000,4500,5500,3500,3000,4000
+UHC115,Micrococcus cf. luteus,Lettuce,Lettuce,C,715.3846154,6000,2500,5000,2000,6000,2500,3000,5000
+UHC115,Micrococcus cf. luteus,Lettuce,Lettuce,D,715.3846154,3000,2500,4500,6500,5500,7000,5000,5500
+UHC115,Micrococcus cf. luteus,Lettuce,Lettuce,E,715.3846154,7000,3000,3000,3000,2500,6500,3500,4000
+UHC115,Micrococcus cf. luteus,Lettuce,Mustard cabbage,A,715.3846154,2000,4000,2500,4500,6500,5500,6000,2500
+UHC115,Micrococcus cf. luteus,Lettuce,Mustard cabbage,B,715.3846154,9000,3000,6500,2000,6500,5000,1000,4000
+UHC115,Micrococcus cf. luteus,Lettuce,Mustard cabbage,C,715.3846154,6500,2000,6500,6500,6500,10500,3500,6500
+UHC115,Micrococcus cf. luteus,Lettuce,Mustard cabbage,D,715.3846154,3000,2000,4000,2500,7000,3500,9000,11000
+UHC115,Micrococcus cf. luteus,Lettuce,Mustard cabbage,E,715.3846154,4000,4000,2500,3000,13500,2500,5000,5500
+UHC115,Micrococcus cf. luteus,Lettuce,Maize,A,715.3846154,11000,2000,5000,4000,6875,9000,9500,7500
+UHC115,Micrococcus cf. luteus,Lettuce,Maize,B,715.3846154,5000,4500,3500,7000,8000,4000,6000,11500
+UHC115,Micrococcus cf. luteus,Lettuce,Maize,C,715.3846154,9000,4500,3000,4000,12500,4500,5500,11500
+UHC115,Micrococcus cf. luteus,Lettuce,Maize,D,715.3846154,7500,3500,2000,2500,3500,2000,5500,5000
+UHC115,Micrococcus cf. luteus,Lettuce,Maize,E,715.3846154,4000,10500,9000,2000,3500,4000,4000,3500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Lettuce,A,705.8823529,9000,10000,16500,4500,3500,7500,11000,10000
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Lettuce,B,705.8823529,52000,56000,22500,9000,10500,5500,4500,12000
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Lettuce,C,705.8823529,37000,23500,9000,4500,7500,10000,4500,5500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Lettuce,D,705.8823529,23500,17500,5500,3000,20500,7500,4500,6500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Lettuce,E,705.8823529,14000,5500,25000,13500,20000,9500,4500,3000
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Mustard cabbage,A,705.8823529,58500,60000,42000,16500,28000,24500,5500,6000
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Mustard cabbage,B,705.8823529,76500,123000,33000,14000,28500,23000,24500,7500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Mustard cabbage,C,705.8823529,37000,110000,39500,21500,6000,6000,15500,6500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Mustard cabbage,D,705.8823529,45000,16000,109000,6500,8000,6000,16500,15500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Mustard cabbage,E,705.8823529,99500,17000,38000,30500,8000,6000,23500,14000
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Maize,A,705.8823529,34500,2000,10000,3000,1500,5500,8500,2500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Maize,B,705.8823529,50000,4500,49500,4000,5000,3500,3000,4000
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Maize,C,705.8823529,20000,9000,54000,14000,8000,3500,5500,2500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Maize,D,705.8823529,8500,9000,5500,7000,14500,3000,1500,3500
+UHC116,Pseudomonas cf. chlororaphis,Lettuce,Maize,E,705.8823529,13000,3500,3500,2500,5500,2500,4000,2500
+UHC117,Erwinia cf. mallotivora,Lettuce,Lettuce,A,695.1219512,5500,13000,52500,10000,12500,30000,30500,11000
+UHC117,Erwinia cf. mallotivora,Lettuce,Lettuce,B,695.1219512,11000,8000,25000,31500,22500,10000,13500,9000
+UHC117,Erwinia cf. mallotivora,Lettuce,Lettuce,C,695.1219512,4000,10000,8000,6000,26500,17500,21500,12000
+UHC117,Erwinia cf. mallotivora,Lettuce,Lettuce,D,695.1219512,9000,6500,17500,11000,31500,17000,20500,10500
+UHC117,Erwinia cf. mallotivora,Lettuce,Lettuce,E,695.1219512,10500,19000,13500,15000,34500,21000,16500,11500
+UHC117,Erwinia cf. mallotivora,Lettuce,Mustard cabbage,A,695.1219512,15500,12500,78000,37000,30500,31000,15500,21500
+UHC117,Erwinia cf. mallotivora,Lettuce,Mustard cabbage,B,695.1219512,11000,26000,36500,21500,53000,39000,32500,28500
+UHC117,Erwinia cf. mallotivora,Lettuce,Mustard cabbage,C,695.1219512,11500,11500,29000,32000,53500,59000,101000,53500
+UHC117,Erwinia cf. mallotivora,Lettuce,Mustard cabbage,D,695.1219512,19500,37000,46000,26000,64500,25500,15000,17000
+UHC117,Erwinia cf. mallotivora,Lettuce,Mustard cabbage,E,695.1219512,19500,7500,34500,45500,45000,10500,30000,23000
+UHC117,Erwinia cf. mallotivora,Lettuce,Maize,A,695.1219512,6500,2500,10000,7500,12000,12500,10500,11500
+UHC117,Erwinia cf. mallotivora,Lettuce,Maize,B,695.1219512,5500,3000,11500,8000,19500,7500,9500,6500
+UHC117,Erwinia cf. mallotivora,Lettuce,Maize,C,695.1219512,4000,10500,7500,13500,8500,15000,12500,53000
+UHC117,Erwinia cf. mallotivora,Lettuce,Maize,D,695.1219512,4500,3000,16500,12000,12500,15000,11000,10000
+UHC117,Erwinia cf. mallotivora,Lettuce,Maize,E,695.1219512,7000,10000,12000,11000,23500,6000,11000,6000
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Lettuce,A,733.8129496,11000,8000,7000,6500,10000,9000,5000,9000
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Lettuce,B,733.8129496,12500,14500,2500,6500,2500,7000,15500,5500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Lettuce,C,733.8129496,9000,2000,5000,4500,11666.66667,7000,8000,6000
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Lettuce,D,733.8129496,8500,9000,10000,9500,3500,10500,6500,6000
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Lettuce,E,733.8129496,9000,18500,10500,16000,2000,7000,6500,3000
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Mustard cabbage,A,733.8129496,52000,24000,10000,9000,8000,11000,10500,8000
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Mustard cabbage,B,733.8129496,17000,18000,11000,17500,5500,19000,5500,6500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Mustard cabbage,C,733.8129496,18000,25500,10500,19500,7500,11500,9000,26500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Mustard cabbage,D,733.8129496,14500,26000,13000,11000,9000,9000,17000,13000
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Mustard cabbage,E,733.8129496,11500,40000,6500,11500,33000,16000,31000,15500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Maize,A,733.8129496,22500,6500,9000,11000,4000,6500,7500,3500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Maize,B,733.8129496,58000,4000,7000,4500,5500,5000,3500,2500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Maize,C,733.8129496,13000,9000,3500,5500,6500,4500,6000,6500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Maize,D,733.8129496,6500,31500,5000,2000,2000,4500,5500,5500
+UHC121,Arthrobacter cf. globiformis,Mustard cabbage,Maize,E,733.8129496,12000,6000,4000,5500,9375,2500,3500,2500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Lettuce,A,730.0884956,4000,3000,1500,2500,5500,4500,3000,3000
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Lettuce,B,730.0884956,2000,5000,2000,3500,2500,2000,3000,500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Lettuce,C,730.0884956,19000,4500,3000,2500,3000,3000,2000,3500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Lettuce,D,730.0884956,1500,5500,2000,4000,1500,2500,500,2000
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Lettuce,E,730.0884956,2500,4000,4500,5000,2500,7000,2500,500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Mustard cabbage,A,730.0884956,4000,3500,6000,3000,3000,2000,4500,2000
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Mustard cabbage,B,730.0884956,6500,5500,2500,4500,3000,1500,2500,3000
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Mustard cabbage,C,730.0884956,3000,3500,2500,2000,1500,1000,1500,500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Mustard cabbage,D,730.0884956,6000,4500,4000,6000,2000,2500,4000,2000
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Mustard cabbage,E,730.0884956,4000,3000,3000,4000,1500,1500,3000,1500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Maize,A,730.0884956,5000,4500,5500,1000,1000,1500,500,3500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Maize,B,730.0884956,2000,13500,2000,3500,2000,2500,1000,500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Maize,C,730.0884956,4500,2000,1500,2500,2000,3500,1000,500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Maize,D,730.0884956,5000,2000,3000,1500,2000,1500,1500,500
+UHC123,Paenibacillus cf. pabul,Mustard cabbage,Maize,E,730.0884956,1500,5000,1000,1500,1000,4000,1000,2500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Lettuce,A,711.8644068,12000,12500,7500,7500,5000,5500,18500,5000
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Lettuce,B,711.8644068,18000,21500,8500,4000,2500,4500,13500,17500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Lettuce,C,711.8644068,20500,12500,2000,10500,14000,6500,10000,4500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Lettuce,D,711.8644068,17500,15500,5000,7500,14000,5500,6500,5500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Lettuce,E,711.8644068,13125,15000,12000,6000,7000,9000,5500,7500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Mustard cabbage,A,711.8644068,22000,39000,36500,26500,11500,88000,20500,34000
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Mustard cabbage,B,711.8644068,56000,79500,28000,16500,4000,28000,33000,34500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Mustard cabbage,C,711.8644068,54000,45000,19500,20500,33000,24000,13500,11000
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Mustard cabbage,D,711.8644068,21500,98000,11500,11000,16500,15000,32500,27500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Mustard cabbage,E,711.8644068,26000,48500,7000,18500,7500,10500,25500,11000
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Maize,A,711.8644068,17000,13000,23000,4500,6000,7000,24500,5000
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Maize,B,711.8644068,8000,16500,7000,11000,4000,4500,2500,8000
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Maize,C,711.8644068,9000,9000,7000,6500,4500,3500,10000,4500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Maize,D,711.8644068,5000,4000,4000,4000,5500,6000,5000,10500
+UHC124,Klebsiella cf. oxytoca,Mustard cabbage,Maize,E,711.8644068,6500,34000,5500,2500,5500,7000,3500,3500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Lettuce,A,713.1147541,42500,64000,50000,22500,17000,26500,18500,11500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Lettuce,B,713.1147541,31500,89000,55000,13500,15500,15500,11000,18500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Lettuce,C,713.1147541,24500,52500,43000,20500,12500,11000,13000,3500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Lettuce,D,713.1147541,25000,42500,27500,18000,15000,8000,6500,5500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Lettuce,E,713.1147541,55500,73500,37500,22000,24500,15000,17500,4500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Mustard cabbage,A,713.1147541,38000,62000,41000,9500,16500,18000,43000,26000
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Mustard cabbage,B,713.1147541,47000,49000,29500,17000,24000,26000,19000,11000
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Mustard cabbage,C,713.1147541,55500,47500,30500,9000,19500,17000,12500,7500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Mustard cabbage,D,713.1147541,106000,77500,73000,19500,20000,29000,5000,10000
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Mustard cabbage,E,713.1147541,23000,59500,59000,28000,26000,47000,22500,9500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Maize,A,713.1147541,5500,19500,7500,8000,2000,1500,11500,3500
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Maize,B,713.1147541,2000,16000,3000,4000,3000,500,2000,4000
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Maize,C,713.1147541,4500,4500,5000,1000,17500,500,5500,2000
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Maize,D,713.1147541,13500,11000,2500,3500,3000,500,4500,3000
+UHC125,Pseudomonas cf. flavescens,Mustard cabbage,Maize,E,713.1147541,13500,2000,1000,2500,5500,500,9000,9000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Lettuce,A,715.3846154,26000,17500,4000,4000,6500,4000,14500,1000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Lettuce,B,715.3846154,17000,20500,13000,6500,5500,3500,1500,4500
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Lettuce,C,715.3846154,10000,33500,3000,8500,4000,6500,9500,5000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Lettuce,D,715.3846154,12500,11000,7500,11500,6500,5500,10500,11500
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Lettuce,E,715.3846154,13500,24500,6000,5000,5000,5000,11500,4500
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Mustard cabbage,A,715.3846154,7000,33500,13500,6000,24000,38000,5000,18000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Mustard cabbage,B,715.3846154,5000,39500,11500,12000,7000,20000,10000,16000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Mustard cabbage,C,715.3846154,7500,82500,8000,9000,13000,26500,9000,12500
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Mustard cabbage,D,715.3846154,5500,39500,15500,12500,6000,8000,2500,14000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Mustard cabbage,E,715.3846154,27500,44000,28000,8500,49500,14500,7500,13000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Maize,A,715.3846154,5500,17000,10000,7000,10000,14500,4500,8500
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Maize,B,715.3846154,10500,13000,9000,4000,5500,7000,5500,4000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Maize,C,715.3846154,7000,20500,7000,5500,6000,3500,3500,4000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Maize,D,715.3846154,7000,6000,5500,5000,2000,10000,7000,3500
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Maize,E,715.3846154,9500,15000,5000,9000,4000,7000,7500,6000
+UHC127,Microbacterium cf. luteolum,Mustard cabbage,Lettuce,A,704.0816327,23500,18000,3000,5500,11500,9500,12500,12500
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Lettuce,B,704.0816327,13000,36500,10000,5000,5000,3500,2500,8500
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Lettuce,C,704.0816327,14500,13000,15000,6500,5000,5000,7500,2000
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Lettuce,D,704.0816327,10500,11500,7000,6500,2000,10000,8000,4000
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Lettuce,E,704.0816327,6000,26500,10000,2500,8000,4000,9500,2500
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Mustard cabbage,A,704.0816327,23000,23500,24500,2500,4000,10000,3500,9500
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Mustard cabbage,B,704.0816327,12500,9000,15500,9000,6500,10000,9500,6000
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Mustard cabbage,C,704.0816327,5000,15500,24000,7000,5000,3000,9000,6500
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Mustard cabbage,D,704.0816327,8500,17000,21000,2000,9500,15000,3000,2000
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Mustard cabbage,E,704.0816327,14000,12000,9500,11500,7500,9000,9500,5500
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Maize,A,704.0816327,7000,16000,14500,8000,5000,16000,4000,2000
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Maize,B,704.0816327,9000,4500,7000,2500,4500,3500,5500,1500
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Maize,C,704.0816327,3500,2500,4500,3500,3000,9000,3500,3000
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Maize,D,704.0816327,4500,2000,5000,6000,3000,4500,5000,2000
+UHC128,Agrobacterium cf. fabrum,Mustard cabbage,Maize,E,704.0816327,4500,7000,12000,1500,6500,19500,6000,4000
+UHC130,Leclercia cf. adecarboxylata,Maize,Lettuce,A,687.5,2500,5500,5500,7000,3500,7500,5500,5000
+UHC130,Leclercia cf. adecarboxylata,Maize,Lettuce,B,687.5,500,7000,1000,5000,4000,2000,1500,1000
+UHC130,Leclercia cf. adecarboxylata,Maize,Lettuce,C,687.5,1000,3500,2000,3500,4000,1000,3000,2000
+UHC130,Leclercia cf. adecarboxylata,Maize,Lettuce,D,687.5,1000,3000,4000,2500,3500,2000,1000,2000
+UHC130,Leclercia cf. adecarboxylata,Maize,Lettuce,E,687.5,3000,3500,5500,5500,2000,2500,1500,3500
+UHC130,Leclercia cf. adecarboxylata,Maize,Mustard cabbage,A,687.5,4500,11000,15000,5500,3500,5500,3500,3500
+UHC130,Leclercia cf. adecarboxylata,Maize,Mustard cabbage,B,687.5,3000,1000,1500,7500,13500,3000,6000,2500
+UHC130,Leclercia cf. adecarboxylata,Maize,Mustard cabbage,C,687.5,1500,6000,12000,5500,4500,1000,4000,6500
+UHC130,Leclercia cf. adecarboxylata,Maize,Mustard cabbage,D,687.5,1000,11000,5500,4500,9000,6000,5000,3500
+UHC130,Leclercia cf. adecarboxylata,Maize,Mustard cabbage,E,687.5,4000,4000,7000,7000,7000,6000,2500,4000
+UHC130,Leclercia cf. adecarboxylata,Maize,Maize,A,687.5,1000,5500,3500,4500,1000,3000,6000,1500
+UHC130,Leclercia cf. adecarboxylata,Maize,Maize,B,687.5,2500,2500,3500,7000,500,500,500,2000
+UHC130,Leclercia cf. adecarboxylata,Maize,Maize,C,687.5,11000,8500,6500,4000,1000,1500,500,2500
+UHC130,Leclercia cf. adecarboxylata,Maize,Maize,D,687.5,500,1500,2500,2500,1000,2000,2000,500
+UHC130,Leclercia cf. adecarboxylata,Maize,Maize,E,687.5,1000,1000,3000,8000,10500,2000,3500,3500
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Lettuce,A,685.7142857,2500,35000,7500,7000,16500,3000,13500,6000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Lettuce,B,685.7142857,6000,13000,4500,8500,4000,9000,8000,7500
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Lettuce,C,685.7142857,2500,10000,9000,4000,3500,7500,15000,10000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Lettuce,D,685.7142857,3000,5000,6500,5500,19500,1500,10000,25000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Lettuce,E,685.7142857,3500,4000,4000,3500,7500,3500,12000,22000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Mustard cabbage,A,685.7142857,4000,10000,5000,17000,4500,8000,18000,20500
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Mustard cabbage,B,685.7142857,9000,13000,7000,13000,19000,14000,51500,8500
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Mustard cabbage,C,685.7142857,3000,15500,12000,8000,10500,5500,28500,36000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Mustard cabbage,D,685.7142857,2000,31000,13000,6500,6000,3500,46000,9000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Mustard cabbage,E,685.7142857,10500,21500,11000,15000,10000,15500,17000,11500
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Maize,A,685.7142857,5000,7000,8000,4500,7000,9000,29500,13000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Maize,B,685.7142857,4500,5500,3500,2500,1000,12000,31500,7500
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Maize,C,685.7142857,2000,5000,9000,3500,5000,4000,19500,19000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Maize,D,685.7142857,2500,11500,6000,2500,15500,2000,41000,7000
+UHC131,Paenarthrobacter cf. nitroguajacolicus,Maize,Maize,E,685.7142857,5500,6000,7000,3000,3500,7000,19000,1000
+UHC132,Luteibacter cf. anthropi,Maize,Lettuce,A,689.1891892,3500,4500,19500,500,1000,1500,500,500
+UHC132,Luteibacter cf. anthropi,Maize,Lettuce,B,689.1891892,2500,1500,500,7000,4000,3000,3000,5000
+UHC132,Luteibacter cf. anthropi,Maize,Lettuce,C,689.1891892,3500,4500,2500,1500,500,3500,2000,500
+UHC132,Luteibacter cf. anthropi,Maize,Lettuce,D,689.1891892,3500,2500,1500,500,2000,500,1000,1000
+UHC132,Luteibacter cf. anthropi,Maize,Lettuce,E,689.1891892,2000,2000,2500,7000,1500,500,2000,500
+UHC132,Luteibacter cf. anthropi,Maize,Mustard cabbage,A,689.1891892,1500,2000,1500,1000,2500,2000,1000,15000
+UHC132,Luteibacter cf. anthropi,Maize,Mustard cabbage,B,689.1891892,4000,2500,1000,1500,3000,2000,500,1000
+UHC132,Luteibacter cf. anthropi,Maize,Mustard cabbage,C,689.1891892,2500,3500,1000,1000,2000,1000,500,500
+UHC132,Luteibacter cf. anthropi,Maize,Mustard cabbage,D,689.1891892,1000,1500,1000,2000,3000,2500,1000,500
+UHC132,Luteibacter cf. anthropi,Maize,Mustard cabbage,E,689.1891892,1500,4500,1000,2000,500,2000,500,1000
+UHC132,Luteibacter cf. anthropi,Maize,Maize,A,689.1891892,1000,3500,7500,1000,500,500,2000,3500
+UHC132,Luteibacter cf. anthropi,Maize,Maize,B,689.1891892,1500,1000,2000,500,1500,1000,3000,1000
+UHC132,Luteibacter cf. anthropi,Maize,Maize,C,689.1891892,2000,5500,1000,3500,500,1000,500,2000
+UHC132,Luteibacter cf. anthropi,Maize,Maize,D,689.1891892,2000,1500,2000,2000,2500,1000,1000,500
+UHC132,Luteibacter cf. anthropi,Maize,Maize,E,689.1891892,1500,1000,2000,1000,3500,2000,500,1000
+UHC135,Staphylococcus cf. succinus,Maize,Lettuce,A,695.1219512,500,3500,14500,7000,1500,5000,7000,500
+UHC135,Staphylococcus cf. succinus,Maize,Lettuce,B,695.1219512,500,4000,3000,6500,10500,9500,4000,8000
+UHC135,Staphylococcus cf. succinus,Maize,Lettuce,C,695.1219512,1500,3500,7000,1500,2000,3500,5500,2000
+UHC135,Staphylococcus cf. succinus,Maize,Lettuce,D,695.1219512,3000,2500,4000,4500,8500,19000,18000,196500
+UHC135,Staphylococcus cf. succinus,Maize,Lettuce,E,695.1219512,3500,2500,2500,5000,3500,5000,3500,23500
+UHC135,Staphylococcus cf. succinus,Maize,Mustard cabbage,A,695.1219512,1500,4500,10000,2000,3000,8500,8500,1000
+UHC135,Staphylococcus cf. succinus,Maize,Mustard cabbage,B,695.1219512,3000,12500,23500,5500,19500,5500,6500,8000
+UHC135,Staphylococcus cf. succinus,Maize,Mustard cabbage,C,695.1219512,2000,8000,8000,4000,10000,6500,3500,21000
+UHC135,Staphylococcus cf. succinus,Maize,Mustard cabbage,D,695.1219512,3000,9500,14000,5000,13000,34500,14000,8000
+UHC135,Staphylococcus cf. succinus,Maize,Mustard cabbage,E,695.1219512,2500,4000,22000,8500,12500,14500,4500,28000
+UHC135,Staphylococcus cf. succinus,Maize,Maize,A,695.1219512,2000,5000,12000,4500,11500,12500,9000,65500
+UHC135,Staphylococcus cf. succinus,Maize,Maize,B,695.1219512,3000,4000,5000,4500,3000,4000,1000,4500
+UHC135,Staphylococcus cf. succinus,Maize,Maize,C,695.1219512,2000,4500,3000,3500,1500,2000,5000,2500
+UHC135,Staphylococcus cf. succinus,Maize,Maize,D,695.1219512,1000,2500,3000,2000,1500,3000,1500,5500
+UHC135,Staphylococcus cf. succinus,Maize,Maize,E,695.1219512,4500,1000,4000,2500,4500,2000,2000,7000
+UHC138,Ensifer cf. adhaerens,Maize,Lettuce,A,737.1428571,15000,6500,11000,6500,45000,22000,11000,29500
+UHC138,Ensifer cf. adhaerens,Maize,Lettuce,B,737.1428571,7500,6500,11500,13000,6000,23500,12500,14000
+UHC138,Ensifer cf. adhaerens,Maize,Lettuce,C,737.1428571,21000,16000,4000,12000,24500,7500,9000,9000
+UHC138,Ensifer cf. adhaerens,Maize,Lettuce,D,737.1428571,15000,9500,15000,9000,4500,7500,8000,9500
+UHC138,Ensifer cf. adhaerens,Maize,Lettuce,E,737.1428571,4000,3000,8500,9500,6000,19000,43000,5000
+UHC138,Ensifer cf. adhaerens,Maize,Mustard cabbage,A,737.1428571,20000,4000,8000,16500,6500,11500,19000,31000
+UHC138,Ensifer cf. adhaerens,Maize,Mustard cabbage,B,737.1428571,19500,5500,5000,11500,36000,18500,24000,8750
+UHC138,Ensifer cf. adhaerens,Maize,Mustard cabbage,C,737.1428571,11500,11000,12000,10000,10500,3500,16500,31500
+UHC138,Ensifer cf. adhaerens,Maize,Mustard cabbage,D,737.1428571,14500,15500,13500,7000,14000,9500,20500,27500
+UHC138,Ensifer cf. adhaerens,Maize,Mustard cabbage,E,737.1428571,5500,8500,22500,6500,52500,36500,14000,31500
+UHC138,Ensifer cf. adhaerens,Maize,Maize,A,737.1428571,3000,10000,22000,14500,21000,13500,4500,12000
+UHC138,Ensifer cf. adhaerens,Maize,Maize,B,737.1428571,5500,6000,9000,4000,4000,24000,6500,8000
+UHC138,Ensifer cf. adhaerens,Maize,Maize,C,737.1428571,2500,13500,9000,14000,5500,12500,17500,25500
+UHC138,Ensifer cf. adhaerens,Maize,Maize,D,737.1428571,5500,16500,17500,19500,12000,12500,10000,9500
+UHC138,Ensifer cf. adhaerens,Maize,Maize,E,737.1428571,3500,6000,19375,14000,6000,12000,25000,7500
